@@ -5,10 +5,10 @@
 **License:** SIL Open Font License 1.1 (OFL 1.1)  
 
 ## Short Description (EN)
-Festiwal 1955 is a display typeface inspired by the visual language of the 5th World Festival of Youth and Students, held in Warsaw in 1955. Designed for the exhibition “The Summer that Changed It All: The Festival of 1955” at the Museum of Warsaw, the typeface offers a loose, subjective interpretation of period lettering rather than a strict historical reconstruction. It blends classicizing socialist-realist forms with lighter, more expressive lettering found in contemporary festival prints.
+Festiwal 1955 is a display typeface inspired by mid-20th-century graphic and lettering traditions associated with postwar Poland. Developed in connection with the exhibition “The Summer that Changed It All: The Festival of 1955” at the Museum of Warsaw, the typeface offers a loose, subjective interpretation of period aesthetics rather than a strict historical reconstruction. It combines classicizing proportions with lighter, more expressive forms characteristic of the era’s printed materials.
 
 ## Krótki opis (PL)
-Festiwal 1955 to kroj displayowy inspirowany kulturą graficzną i literniczą towarzyszącą V Światowemu Festiwalowi Młodzieży i Studentów w Warszawie (1955). Zaprojektowany na potrzeby wystawy „Lato, które zmieniło wszystko. Festiwal 1955” w Muzeum Warszawy, nie jest wierną rekonstrukcją historyczną, lecz subiektywną interpretacją, łączącą klasycyzujące formy socrealizmu z bardziej swobodnym i ekspresyjnym liternictwem festiwalowych druków.
+Festiwal 1955 to krój displayowy inspirowany estetyką polskiej grafiki i liternictwa lat 50. XX wieku. Zaprojektowany w trakcie prac nad wystawą „Lato, które zmieniło wszystko. Festiwal 1955” w Muzeum Warszawy, stanowi subiektywną interpretację stylistyczną, a nie wierną rekonstrukcję historyczną. Łączy klasycyzujące proporcje kojarzone z socrealizmem z bardziej swobodnym i ekspresyjnym detalem charakterystycznym dla ówczesnej kultury graficznej.
 
 ## Supported Scripts
 - Latin  
